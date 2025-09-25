@@ -1,0 +1,14 @@
+pandas==1.5.3
+scikit-learn==1.2.2
+numpy<2.0
+matplotlib==3.7.0
+torch==2.0.1
+reformer-pytorch==1.4.4
+tqdm
+openpyxl
+fastdtw
+ipykernel
+ipywidgets
+pyyaml
+umap-learn
+seaborn
