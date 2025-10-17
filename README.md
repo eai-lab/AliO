@@ -1,7 +1,7 @@
 # [NeurIPS 2025] AliO: Output Alignment Matters in Long-Term Time Series Forecasting
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> <img src="https://img.shields.io/badge/NeurIPS25:119426-3776AB?style=flat"/>
 
-Official implementation of AliO
+Official implementation of <a href="https://neurips.cc/virtual/2025/poster/119426">AliO</a>
 
 # How to use
 * Install AliO using
