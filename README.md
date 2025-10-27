@@ -3,6 +3,8 @@
 
 Official implementation of <a href="https://neurips.cc/virtual/2025/poster/119426">AliO</a>
 
+Official presentation of author (Kwangryeol Park): <a href="https://recorder-v3.slideslive.com/?share=103427&s=a11017bd-12a5-4c9a-b667-2babc3fdfab2">SlidesLive</a>
+
 # Abstract
 Long-term Time Series Forecasting (LTSF) is crucial in real-world applications like weather forecasting and electricity consumption planning. However, state-of-the-art LTSF models often suffer from the 'output alignment problem,' where predictions for the same future timestamp fluctuate when made from slightly different input sequences (lagged inputs). This inconsistency undermines the model's reliability. To address this, we propose AliO (Align Outputs), a novel approach designed to improve the output alignment of LTSF models by reducing discrepancies between predictions for the same timestamps in both the time and frequency domains. We also introduce a new metric, TAM (Time Alignment Metric), to quantify output alignment. Experimental results show that AliO significantly improves output alignment (up to 58.2% in TAM) while maintaining or enhancing forecasting performance (up to 27.5%).
 
