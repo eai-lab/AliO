@@ -67,11 +67,17 @@ AliO can be easily integrated into various state-of-the-art LTSF models, and we 
 
 # Citation
 ```
-@inproceedings{park2025alio,
-  title={AliO: Output Alignment Matters in Long-Term Time Series Forecasting},
-  author={Kwangryeol Park and Jaeho Kim and Seulki Lee},
-  booktitle={Thirty-ninth Conference on Neural Information Processing Systems},
-  year={2025},
-  url={https://openreview.net/forum?id=AuOZDp4gy7}
+@inproceedings{alio,
+ author = {Park, Kwangryeol and Kim, Jaeho and Lee, Seulki},
+ booktitle = {Advances in Neural Information Processing Systems},
+ doi = {10.52202/085713-3992},
+ editor = {D. Belgrave and C. Zhang and H. Lin and R. Pascanu and P. Koniusz and M. Ghassemi and N. Chen},
+ pages = {119563--119608},
+ publisher = {Curran Associates, Inc.},
+ title = {AliO: Output Alignment Matters in Long-Term Time Series Forecasting},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2025/file/ad52f9c2b232a719963a620dcf88fbe5-Paper-Conference.pdf},
+ volume = {38, Main Conference},
+ year = {2025}
 }
+
 ```
